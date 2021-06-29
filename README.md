@@ -1,5 +1,4 @@
 
-# Minimal CMake example
+# Stack Excercise
 
-
-A stripped down CMake project with tests for a MyFraction C-like example and some C++ functions.
+An exercise to gain confidence with basic data structure for data storage
